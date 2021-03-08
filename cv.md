@@ -6,5 +6,5 @@
   <li><b>Skills:</b> Basic knowladge about  c++, as well as, html and CSS</li>
   <li><b>Education:</b> Tashkent state University in cooperatin with North China University of Technology</li>
   Faculty: Computer science and engineering
-  <li><b>English:</> Level: B2;
+  <li>English: Level: B2;</li>
  </ul>
